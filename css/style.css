@@ -344,8 +344,7 @@ span {
 
 footer {
     height: 50px; 
-    text-align: left;
-    position: sticky;
+    text-align: center;
     width: 100%;
     line-height: 2em;
     padding-top: 15px;
@@ -359,7 +358,7 @@ footer a {
 }
 
 footer a:hover {
-    color: #EFEFEF;
+    color: #3EF222;
 }
 
 @media only screen and (min-width: 50rem) {
